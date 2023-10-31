@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+- 🌱 I’m currently studying videogame development at Skövde University with a focus on 2D graphics!
+
 
 <!--
 **elvlag/elvlag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
